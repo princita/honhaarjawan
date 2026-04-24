@@ -10,6 +10,77 @@
 ![image](https://github.com/user-attachments/assets/baaac34a-d031-4ee6-b47e-c2923ba4b7df)
 ![image](https://github.com/user-attachments/assets/0b1b85e2-fd74-4d12-a60e-d0f9ec9d80eb)
 ![image](https://github.com/user-attachments/assets/feb3bd9d-15fa-49ac-8ce6-75b097cbd697)
-![image]()
-![image]()
-![image]()
+
+1-How many AWS exam levels exist?
+
+Choose only ONE best answer. 
+A Two main levels 
+B Three main levels  (Correct)
+C Four main levels 
+D Five main levels
+
+2-What does Data Pipeline do?
+
+Choose only ONE best answer. 
+A Moves cloud data (Correct)
+B Manages web apps 
+C Builds websites 
+D Creates networks
+
+3-Which AWS tool saves files? 
+
+Choose only ONE best answer. 
+A Amazon S3 (Correct)
+B AWS CloudTrail 
+C AWS CloudWatch
+D AWS Lambda
+
+
+4-What does AWS Cert prove? 
+
+Choose only ONE best answer.
+A AWS job access 
+B AWS skill check (Correct)
+C AWS free tools 
+D AWS tech use
+
+5-Which AWS tool runs servers?
+
+Choose only ONE best answer. 
+A AWS Lambda 
+B Amazon RDS 
+C AWS Dynamo 
+D Amazon EC2(Correct)
+
+6-What best defines AWS? 
+
+Choose only ONE best answer. 
+A A cloud tech firm (Correct)
+B A coding language 
+C A storage device 
+D A web browser
+
+7-Which AWS exam is for beginners? 
+
+Choose only ONE best answer. 
+A Cloud Pro Admin 
+B AWS Cloud Cert (Correct)
+C AWS Cloud Start 
+D AWS Cloud Basics
+
+8-What is the first AWS step? 
+
+Choose only ONE best answer. 
+A Create AWS login (Correct)
+B Open AWS tools 
+C Pass AWS test 
+D Read AWS books
+
+What does AWS stand for? 
+
+Choose only ONE best answer. 
+A Amazon Web Cloud 
+B Amazon Web System 
+C Amazon Web Server 
+D Amazon Web Services(Correct)
+
