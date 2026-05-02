@@ -73,10 +73,53 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/user-attachments/assets/cd85a6ee-2aa3-40b5-9a3e-23ea07d0fc0c)
+![image](https://github.com/user-attachments/assets/913a0706-b148-4f8a-8ee3-c4eab0e01c0c)
+![image](https://github.com/user-attachments/assets/b20ea5c3-ec70-4c56-986a-5540f2df6b6b)
+![image](https://github.com/user-attachments/assets/ded65a3a-4621-40ff-92c7-87bffa72a1ba)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/f0096188-3587-46b2-a1b9-ecdc09d237b9)
+![image](https://github.com/user-attachments/assets/668357e4-3320-407a-bef4-6a402b5fdea7)
+![image](https://github.com/user-attachments/assets/bd9c6a16-1cd4-49f2-93c2-c3be199aa9e9)
+![image](https://github.com/user-attachments/assets/469ccc79-2b71-4317-acb6-774d47154abc)
+![image](https://github.com/user-attachments/assets/fbe62440-f96b-45e8-a440-f5f77f3241f0)
+![image](https://github.com/user-attachments/assets/3db85693-3edb-46bd-bd31-2bb94a0f9fc2)
+![image](https://github.com/user-attachments/assets/649263bf-6e55-4f23-85b3-0e92ed29175a)
+![image](https://github.com/user-attachments/assets/3ff5f8bc-060c-4651-a236-16ad85a6994d)
+![image](https://github.com/user-attachments/assets/812fe802-e5e3-4aab-b02a-81a429889dff)
+![image](https://github.com/user-attachments/assets/0ab675ca-72c6-431f-852d-7daeae2108ef)
+![image](https://github.com/user-attachments/assets/4dd90140-5623-446b-87c8-c03992bfb0f2)
+
+
+Sequence length refers to? Choose only ONE best answer. A Number of time steps in a sequence B Total batch count C Number of features D Network layers
+
+Feature dimension in RNN is? Choose only ONE best answer. A Number of input features per time step B Number of hidden layers C Size of the batch D Length of sequence
+
+Batch size in RNN defines? Choose only ONE best answer. A Length of a sentence B Number of features only C Memory required per GPU D Number of sequences processed together
+
+
+Which type of data does Kinesis handle? Choose only ONE best answer. A Static data B Video data C Streaming data D Compressed data
+
+What is "Put Records" used for? Choose only ONE best answer. A Sending data B Deleting data C Encrypting data Compressing data D Compressing data
+
+How does KDS handle data? Choose only ONE best answer. A By processing streams B By streaming logs C By storing file D By deleting data
+
+What is a key Kinesis feature? Choose only ONE best answer. A Data deletion B Auto-scaling C Network backup D Static storage
+
+What is a data type? Choose only ONE best answer. A A data format B A data size C A data model D A data class
+
+Which AWS tool stores Kinesis data? Choose only ONE best answer. A Amazon EC2 B Amazon S3 C AWS IAM D AWS CloudTrail
+
+What is a key use of Kinesis? Choose only ONE best answer. A AI training B Data streaming C Server hosting D Web security
+
+Which AWS tool collects data? Choose only ONE best answer. A AWS Lambda B AWS Kinesis C AWS Dynamo D AWS Glacier
+
+What does Kinesis help with? Choose only ONE best answer. A Running apps B Storing logs C Streaming data D Sending emails
+
+What does KDS stand for? Choose only ONE best answer. A Kinesis Data Sync B Kinesis Data Source C Kinesis Data Storage D Kinesis Data Stream
+
 
 
 
