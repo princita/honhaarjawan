@@ -27,9 +27,34 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-![image]()
-![image]()
+![image](https://github.com/user-attachments/assets/2f832bc0-3510-41c2-ab98-6c6354001820)
+![image](https://github.com/user-attachments/assets/dda0c4a8-37af-4c3d-9241-2c8e886945c4)
+![image](https://github.com/user-attachments/assets/6d8e2457-5ead-4b6d-9614-ed5f2555f525)
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/3e7c7bc2-a994-4564-856a-7761c11be3bd)
+![image](https://github.com/user-attachments/assets/405f37d9-8fae-4f53-b2a2-6bd2a06a0bb5)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+Which service allows analyzing real-time streaming data? Choose only ONE best answer. A Kinesis Data Firehose B Kinesis Data Analytics C Glue Data Catalog D Apache Flink
+
+What is the primary purpose of Kinesis Data Firehose? Choose only ONE best answer. A Load data into data lakes B Real-time video streaming C Monitor S3 storage D Run machine learning models
+
+In "Lab 1.2," what is demonstrated with Apache Flink? Choose only ONE best answer. A Video stream processing B Data catalog crawling C ETL pipeline creation D Real-time analytics setup
+
+What is the primary function of Glue ETL? Choose only ONE best answer. A Extract, Transform, Load data B Process video streams C Run SQL on real-time data D Analyze streaming data
+
+What is covered in the Kinesis ML Summary? Choose only ONE best answer. A YesKey machine learning use cases B Setting up video streams C Data catalog configuration D ETL pipeline optimization
+
+What is the function of Glue Data Catalog Crawlers? Choose only ONE best answer. A Enforce data encryption B Enable video analytics C Automatically classify data D Process real-time streams
+
+What is demonstrated in Lab 1.3? Choose only ONE best answer. A Using Apache Flink B Setting up ETL jobs C Running Kinesis Data Analytics D Configuring Glue Data Catalog
+
+What managed service is discussed in conjunction with Apache Flink? Choose only ONE best answer. A Lambda B Kinesis Data Firehose C Kinesis Data Analytics D Glue Data Brew
+
+Which Kinesis service is designed for handling video streams? Choose only ONE best answer. A Kinesis Video Streams B Kinesis Data Firehose C Kinesis Data Analytics D Glue ETL
+
+Which Glue service provides a no-code tool for data preparation? Choose only ONE best answer. A Glue ETL B Glue Data Catalog C Glue Data Brew D Glue Studio
 
 
 
