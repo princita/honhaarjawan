@@ -45,6 +45,40 @@
 ![image](https://github.com/user-attachments/assets/54266a9a-6c97-4ed4-979d-80c9e09e1407)
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+What is the main purpose of Availability Sets and Availability Zones in Azure VMs?
+
+Choose only ONE best answer.
+
+A
+ To increase the VM’s availability and reliability
+
+B
+ To improve video streaming
+
+C
+ To reduce data costs
+
+D
+ To add more storage
+
+ What is a key benefit of Virtual Machine Scale Sets? Choose only ONE best answer. A Simplifying command-line tasks B Automatically scaling VMs based on demand C Increasing disk space D Enhancing video quality
+
+ What tool simplifies software installation on Azure Virtual Machines? Choose only ONE best answer. A Cloud Shell B Load Balancer C Azure Monitor D Cloud-Init
+
+ Which feature helps balance load across multiple virtual machines? Choose only ONE best answer. A Virtualization B Scale Sets C Cloud-Init D Static IP
+ 
+ What is the primary purpose of Azure Virtual Machines? Choose only ONE best answer. A Running applications on virtualized hardware B Hosting websites C Storing user data D Enhancing video playback
+
+How does Azure help reduce costs for Virtual Machines? Choose only ONE best answer. A Monitoring and optimizing usage B Using pre-paid resources C Providing static IPs D Offering free support
+
+Which process is essential to understanding Azure Virtual Machines? Choose only ONE best answer. A Scaling B Virtualization C Load balancing D Networking
+
+What can be installed on an Azure Virtual Machine as demonstrated in the section? Choose only ONE best answer. A Python B SQL Server C Nginx D Visual Studio
+
+
+What is the first step in working with Azure Virtual Machines? Choose only ONE best answer. A Scaling the VM B Running commands C Creating a virtual machine D Installing nginx
+
+Which command can you skip remembering for Azure VM operations? Choose only ONE best answer. A Commands for VM creation B Commands for VM connection C Commands for cleanup D All commands
 
 ![image]()
 ![image]()
