@@ -96,8 +96,25 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+Which AWS database is compatible with MongoDB? Choose only ONE best answer. A Amazon RDS B Amazon DynamoDB C Amazon Redshift D Amazon DocumentDB
 
+Which database is optimized for time-series data? Choose only ONE best answer.A Amazon Timestream B Amazon Neptune C Amazon Redshift D Amazon DynamoDB
 
+Which AWS tool supports NoSQL storage? Choose only ONE best answer. A Amazon Redshift B Amazon DynamoDB C Amazon Timestream D Amazon Aurora
+
+Which AWS service is a data warehouse? Choose only ONE best answer. A Amazon Redshift B AWS CloudWatch C Amazon DynamoDB D AWS ElastiCache
+
+What type of storage does ElastiCache use? Choose only ONE best answer.A In-memory storage B Block storage C Cold storage D Network storage
+
+ What does AWS Lake Formation do? Choose only ONE best answer. A Encrypts data B Moves files C Manages lakes D Creates data lakes
+
+ Which AWS service supports both MySQL and PostgreSQL? Choose only ONE best answer. A Amazon Aurora B Amazon Neptune C Amazon S3 D Amazon DynamoDB
+ 
+ Which AWS service supports graph databases? Choose only ONE best answer. A Amazon Redshift B Amazon RDS C Amazon Neptune D AWS Lambda
+
+Which AWS tool supports structured data? Choose only ONE best answer. A Amazon S3 B AWS Lambda C Amazon RDS D AWS IAM
+
+Which AWS service is used for object storage? Choose only ONE best answer. A Amazon S3 B Amazon RDS C Amazon EC2 D Amazon VPC
 
 
 
