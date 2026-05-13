@@ -29,7 +29,32 @@
 ![image](https://github.com/user-attachments/assets/0066b888-9678-4e2d-8f31-35f77f91e041)
 ![image](https://github.com/user-attachments/assets/8f991faa-2234-43d8-be47-9a8d1777de8e)
 ![image](https://github.com/user-attachments/assets/ed9832b9-6b34-4bfd-b699-5ea2c1b25a97)
-![image](
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/df1b56bf-f76c-4995-9a17-9b117e5fdd0c)
+![image](https://github.com/user-attachments/assets/4cd1c267-cece-417b-abe2-0315ed728270)
+
+What is the goal of "Lab 1 Cleanup"? Choose only ONE best answer. A Optimize Glue ETL pipelines B Analyze machine learning data C Automate SQL queries D Clean up AWS resources
+
+What two topics are briefly covered in the final video (Random things you need to know AWS DataSync and MQTT)? Choose only ONE best answer. A Data pipelines and SQL queries B DataSync and MQTT C Batch jobs and ETL tasks D Video streaming and analytics
+
+Which service is used for batch processing in AWS? Choose only ONE best answer. A AWS Glue B AWS Athena C AWS Batch D AWS DMS
+
+What is Athena used for in AWS? Choose only ONE best answer. A Real-time data streaming B ETL operations C SQL-based querying D Batch job scheduling
+
+What is demonstrated in "Lab 1.5 Glue Data Brew"? Choose only ONE best answer. A No-code data cleaning B Real-time analytics C Data pipeline creation D Batch job execution
+
+What is the main function of AWS Data Pipelines? Choose only ONE best answer. A Query large datasets B Manage ETL workflows C Migrate databases D Prepare no-code datasets
+
+What does "AWS Data Stores in Machine Learning" focus on? Choose only ONE best answer. A Using data stores for ML B Configuring databases C Running batch jobs D Migrating databases
+
+What does AWS DMS primarily help with? Choose only ONE best answer. A Real-time data querying B No-code ETL tasks C Batch job execution D Database migrations
+
+What is covered in the "Full Data Engineering Pipelines" videos? Choose only ONE best answer. A End-to-end pipeline setup B Data cleaning C No-code data preparation D Batch processing workflows
+
+What is the purpose of the "Lab 1.4 Glue ETL" exercise? Choose only ONE best answer. A Learn video streaming setup B Perform ETL operations C Configure Data Brew D Set up database migrations
+
+
 
 
 
