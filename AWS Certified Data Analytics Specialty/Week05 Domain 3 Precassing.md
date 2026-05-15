@@ -25,6 +25,51 @@
 -----------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/db2f3f9b-229c-4af1-af02-030ed068d90f)
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/9de1754a-39e6-40ea-86b2-996427b35d3e)
+![image](https://github.com/user-attachments/assets/8b9c12fd-d3ff-4845-b798-978351e8a772)
+![image](https://github.com/user-attachments/assets/09435e77-3f9a-4dbe-a820-21c99241eb74)
+![image](https://github.com/user-attachments/assets/87a6b74f-599b-4b7a-a682-2c328007ea67)
+![image](https://github.com/user-attachments/assets/b0d37587-065f-445c-9f3f-249e85be8e52)
+![image](https://github.com/user-attachments/assets/04f7d428-0807-4893-bf1e-d9c60356f711)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/618f9adc-dc3f-4e44-9d5c-2619f8561acd)
+![image](https://github.com/user-attachments/assets/54a6b0bd-91ef-40ac-9231-d2d70491f989)
+![image](https://github.com/user-attachments/assets/bc728758-4b8a-42f1-a4f4-df7b3468a7d4)
+![image](https://github.com/user-attachments/assets/21aac6a1-1c23-4fab-8a8c-fcd4fc1b6e84)
+![image](https://github.com/user-attachments/assets/e156e0ba-37ca-47ac-a3db-6f724876b764)
+![image](https://github.com/user-attachments/assets/671e1458-5508-4c95-8ef7-aab51ab78499)
+![image](https://github.com/user-attachments/assets/484a48bb-750c-4117-a9ee-9b03a75aa4e1)
+![image](https://github.com/user-attachments/assets/2a67e4fe-21ee-4f7f-b4c2-ddba43d7f014)
+![image](https://github.com/user-attachments/assets/df37e268-6aa9-4dda-a8a6-5487e29a15a9)
+![image](https://github.com/user-attachments/assets/9ab89754-a754-4cb5-8c46-4918d8a2d6a8)
+![image](https://github.com/user-attachments/assets/ee67a1c6-5c3a-471e-928b-c40d578a3196)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+How does AWS Lambda scale? Choose only ONE best answer. A Manually B Using clusters C By request D Automatically
+
+Which AWS tool is used for ETL? Choose only ONE best answer. A AWS Glue B Amazon S3 C AWS IAM D Amazon EC2
+
+Which AWS tool is best for big data? Choose only ONE best answer. A Amazon S3 B AWS IAM C Amazon EMR D AWS Glue
+
+Which AWS service integrates with Glue? Choose only ONE best answer. A AWS Athena B Amazon RDS C AWS CloudTrail D Amazon EC2
+
+What is AWS Athena used for? Choose only ONE best answer. A Running apps B Encrypting files C Storing logs D Querying data
+
+Which AWS service runs serverless code? Choose only ONE best answer. A AWS Lambda B AWS Glue C Amazon EMR D AWS RDS
+
+What does AWS Glue Crawler do? Choose only ONE best answer. A Deletes files B Indexes data C Moves servers D Encrypts logs
+
+Which AWS service handles Spark jobs? Choose only ONE best answer. A AWS Glue B AWS Lambda C Amazon S3 D Amazon EMR
+
+What is Amazon EMR used for? Choose only ONE best answer. A Cloud storage B Data processing C Web hosting D Network security
+
+
+
+
+
+
 
 
 
