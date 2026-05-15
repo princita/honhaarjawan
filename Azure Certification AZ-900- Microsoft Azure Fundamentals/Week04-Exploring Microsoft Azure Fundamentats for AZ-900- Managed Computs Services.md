@@ -32,5 +32,25 @@
 
 ![image](https://github.com/user-attachments/assets/6be626fd-fe7b-42b6-9ba7-dcb7139e2c24)
 
+What is an example of a serverless computing service in Azure? Choose only ONE best answer. A Azure App Service B Azure Functions C . Azure Virtual Machines D . Azure Kubernetes Service
+
+What type of cloud service is Azure offering with SaaS? Choose only ONE best answer. A Infrastructure-focused B Platform-focused C . Software-focused D Container-focused
+
+Which Azure service provides Infrastructure as a Service (IaaS)? Choose only ONE best answer. A Azure App Service B Azure Container Instances C Virtual Machines D Azure Functions
+
+What is a key benefit of serverless computing? Choose only ONE best answer.A Event-driven scaling B Complete infrastructure control C. Fixed resource costs D Hosting only containers
+
+What does the Azure Shared Responsibility Model define? Choose only ONE best answer. A Cloud pricing structures B Responsibilities between users and Azure C The scope of IaaS, PaaS, and SaaS D The process of deleting resources
+
+What is the primary use of Azure App Service? Choose only ONE best answer. A Hosting databases B Hosting web apps C Container orchestration D Automating workflows
+
+Which service is designed for lightweight, single-container deployments? Choose only ONE best answer. A Azure Kubernetes Service B Service Fabric C Azure Container Instances D Azure App Service
+
+What should be done before deleting an Azure Resource Group? Choose only ONE best answer. A Upgrade resources B Back up all data C Restart all services D Delete all containers
+
+Which of the following helps automate workflows in Azure? Choose only ONE best answer. A Azure Functions B Azure Logic Apps C Azure AKS D Azure App Service
+
+What does Azure AKS stand for? Choose only ONE best answer. A Azure Kubernetes Service B Azure Key System C Azure Kernel Service D Azure Knowledge Syste
+
 
 
