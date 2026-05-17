@@ -73,8 +73,33 @@
 ![image](https://github.com/user-attachments/assets/4a1d01fb-bb1d-4514-b0d5-bfe1ecee48f9)
 ![image](https://github.com/user-attachments/assets/4cab20c8-a48d-4a90-8054-3427ab7b50d1)
 
------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------
 
-![image](
-![image](
+![image](https://github.com/user-attachments/assets/d7061ba0-d09e-42cf-aaa9-c9ec99fa0152)
+![image](https://github.com/user-attachments/assets/55f17128-9ee7-466f-83d9-8f83595f456b)
+![image](https://github.com/user-attachments/assets/4abd1d0b-a3e2-4cfa-b33b-4049dbafea60)
+![image](https://github.com/user-attachments/assets/d4e1ea8a-25b4-4d1b-b6df-48a5a83fd21a)
+![image](https://github.com/user-attachments/assets/d39937cd-8d76-4322-a63f-99b101e762bb)
+![image](https://github.com/user-attachments/assets/79dcd3ef-93b3-4c63-8594-bb902b8a34f1)
+
+What programming language is highlighted in the context of Data Science and Machine Learning? Choose only ONE best answer. A R B Python C Java D SQL
+
+What do data distributions help analyze? Choose only ONE best answer. A Relationship between datasets B Visualization formats C Time-based patterns D Frequency of data values
+
+What do time series trends and seasonality represent? Choose only ONE best answer. A Data visualization methods B Patterns in sequential data C Distribution of categorical data D Data preparation steps
+
+What is the primary purpose of Amazon Quicksight? Choose only ONE best answer. A Data preparation B Data visualization and reporting C Real-time data processing D Building machine learning pipelines
+
+What distributed computing framework is discussed alongside Elastic MapReduce (EMR)? Choose only ONE best answer. A Spark B TensorFlow C Athena D Hadoop
+
+What is the primary tool used in the video for preparing data for Machine Learning? Choose only ONE best answer. A Jupyter Notebook B Excel C Tableau D Amazon Quicksight
+
+What is Amazon Athena used for in data analysis? Choose only ONE best answer. A Data preparation B Creating machine learning models C Visualizing data D SQL querying on S3 data
+
+What does Elastic MapReduce (EMR) primarily enable? Choose only ONE best answer. A Distributed data processing B Cloud-based SQL querying C Real-time data streaming D Data visualization
+
+Which type of visualization is best for showing trends over time? Choose only ONE best answer. A Line graph B Pie chart C Bar chart D Scatter plot
+
+What are the two main types of data discussed? Choose only ONE best answer. A Categorical and Numerical B Structured and Unstructured C Quantitative and Qualitative D Raw and Processed
+
 
