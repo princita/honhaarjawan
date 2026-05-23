@@ -59,11 +59,73 @@
 ![image](https://github.com/user-attachments/assets/57aface0-179c-4ef4-b97c-00968418ad4c)
 ![image](https://github.com/user-attachments/assets/db47dbd2-2cf9-4c20-a6f5-df468e05a52e)
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/53a24888-cf66-40d4-a2a8-0229ebe24086)
+![image](https://github.com/user-attachments/assets/1d344d64-a7f0-435d-96c2-46440f1c533d)
+![image](https://github.com/user-attachments/assets/ea0ff979-67c3-4117-9a60-3951c9329130)
+![image](https://github.com/user-attachments/assets/b9b49a83-a0f2-4182-afd4-a96d6d8e344b)
+![image](https://github.com/user-attachments/assets/9d4eeea7-3375-42e2-93c7-847aebbb5ed6)
+![image](https://github.com/user-attachments/assets/6a680b67-dba5-43b8-8348-d2a6a8308c6c)
+![image](https://github.com/user-attachments/assets/d69d9cea-82f6-491e-90e9-099b52019d03)
+![image](https://github.com/user-attachments/assets/eaff101b-3b3f-4fef-9c58-735154eb9138)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/cb720cd7-a03f-4b03-97c9-b347c5e58fb7)
+![image](https://github.com/user-attachments/assets/a35b2e32-d31c-4f80-b235-e22196ce99a8)
+![image](https://github.com/user-attachments/assets/cc9119d6-0f5e-4e66-8d8f-18fe64425974)
+![image](https://github.com/user-attachments/assets/d72ee29d-7a47-4503-8153-2df8c6a396a9)
+![image](https://github.com/user-attachments/assets/e3ebbc0f-37e0-4c07-9785-8e8c3d91a5ad)
+![image](https://github.com/user-attachments/assets/e59d2b98-1e75-42ee-ad88-e782212de342)
+![image](https://github.com/user-attachments/assets/e492262c-2f7a-45c3-abb7-4774903560ea)
+![image](https://github.com/user-attachments/assets/aea3fc8a-4493-4fdb-b84f-0a66c98e3181)
+![image](https://github.com/user-attachments/assets/3d051296-217e-4c98-b18a-b9d0f30faf77)
+
+What is Apache Spark primarily used for on EMR? Choose only ONE best answer. A Distributed data processing B Data visualization C Database migrations D Label generation
+
+What is the purpose of shuffling data during preprocessing? Choose only ONE best answer. A Balancing dataset classes B Normalizing features C Reducing overfitting D Randomizing the data order
+
+. What process involves grouping continuous data into discrete categories? Choose only ONE best answer. A Binning B Scaling C Encoding D Shuffling4
+
+What technique is discussed for handling missing data? Choose only ONE best answer. A Normalization B Binning C Scaling D Imputation
+
+What are the key considerations when working with EMR Notebooks? Choose only ONE best answer. A Real-time data streaming and labeling B Security and instance types C Visualization and SQL querying D Model training and feature scaling
+
+What is a common strategy to deal with unbalanced datasets? Choose only ONE best answer. A Encoding categorical variables B Oversampling or undersampling C Removing outliers D Normalizing features
+
+What problem arises when dealing with too many features in a dataset? Choose only ONE best answer. A Unbalanced data B Outliers C Curse of dimensionality D Missing data
+
+What service assists in generating labeled data for machine learning? Choose only ONE best answer. A Apache Spark B Amazon SageMaker Ground Truth C EMR Notebooks D TF-IDF Preparation
+
+What is the focus of the lab on preparing data for TF-IDF with Spark and EMR Studio? Choose only ONE best answer. A Text vectorization B Data cleaning C Outlier removal D Feature scaling
+
+Which method is used to handle extreme values in a dataset? Choose only ONE best answer. A Scaling B Handling outliers C Encoding D Shuffling
 
 
 
 
 
 
-![image](
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
