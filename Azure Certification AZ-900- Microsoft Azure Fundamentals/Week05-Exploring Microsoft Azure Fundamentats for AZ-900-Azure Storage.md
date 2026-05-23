@@ -32,4 +32,36 @@
 ![image](https://github.com/user-attachments/assets/d69074dd-f9ef-4919-adaf-1bec9cde677e)
 ![image](https://github.com/user-attachments/assets/a0d9793c-d68d-4247-a99c-d80164ddf7ee)
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/105f3f51-272c-43af-9990-c465b37d8d4a)
+![image](https://github.com/user-attachments/assets/7c80890c-92b6-4494-b7b1-9beabce2bb95)
+
+
+Which Azure service allows shared file access using SMB protocol? Choose only ONE best answer. A Region Pairs B File Sync C Blob Storage D Azure Files
+
+What is Azure Storage Explorer used for? Choose only ONE best answer. A Monitoring VM performance B Managing Azure storage accounts C Deploying Azure applications D Automating container tasks
+
+What is the difference between managed and unmanaged block storage? Choose only ONE best answer. A Managed is faster B Unmanaged has built-in backup C Managed simplifies infrastructure D Unmanaged is free
+
+What does Azure Blob Storage primarily store? Choose only ONE best answer. A Structured data B Large unstructured data C Files shared over SMB D High-performance VMs
+
+Why are globally unique names required for storage accounts? Choose only ONE best answer. A To reduce storage costs B To comply with redundancy policies C To avoid conflicts globally D To improve data security
+
+How does Azure File Sync benefit hybrid file shares? Choose only ONE best answer. A Syncs files between cloud and on-premises B Automates backups C Provides blob tiering D Reduces storage costs
+
+Which feature helps maintain data availability during region outages? Choose only ONE best answer. A Premium Storage B Region Pairs C File Sync D Blob Tiers
+
+Which redundancy option provides read-only access during primary region failure? Choose only ONE best answer. A ZRS B GRS C LRS D RA-GRS
+
+What does Azure Premium Storage primarily offer? Choose only ONE best answer. A High performance SSDs B Cheaper storage costs C Enhanced data redundancy D Blob lifecycle managemen
+
+What is a key feature of Azure Blob Storage? Choose only ONE best answer. A Supports structured data B Offers data tiers for cost management C Requires SMB for access D Limited to single region
+
+
+
+
+
+
+
+
 
