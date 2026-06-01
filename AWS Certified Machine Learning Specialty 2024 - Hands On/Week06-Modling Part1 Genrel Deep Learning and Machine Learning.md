@@ -101,11 +101,29 @@
 ![image](https://github.com/user-attachments/assets/c91b5707-ed2d-44b4-a576-8e1a73e079c7)
 ![image](https://github.com/user-attachments/assets/2709565c-853a-4966-836c-32d2c8bb4d6c)
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/fd07faf3-0446-4afb-9f67-14d410bec82c)
+![image](https://github.com/user-attachments/assets/490c5ba9-10e5-4abd-91d2-8a6506075d590)
+![image](https://github.com/user-attachments/assets/735b3cb7-f74d-4add-b0e3-15560a7894d7)
+![image](https://github.com/user-attachments/assets/c9682fd0-1cf8-48dd-8742-6cc77962edaf)
+![image](https://github.com/user-attachments/assets/07b825aa-045b-4982-9eeb-3508229d11fb)
 
+Which activation function introduces non-linearity to neural networks? Choose only ONE best answer. A ReLU B Sigmoid C Tanh D All of the above
 
+What does the Dropout technique help prevent in neural networks? Choose only ONE best answer. A Underfitting B Gradient vanishing C Overfitting D Data imbalance
 
+Which model is associated with modern NLP advancements? Choose only ONE best answer. A BERT B RNN C CNN D MLP
 
+Which type of neural network is best for image data? Choose only ONE best answer. A Feedforward Neural Networks B Recurrent Neural Networks C Convolutional Neural Networks D Transfer Learning Networks
 
+What is the main purpose of tuning neural networks? Choose only ONE best answer. A Reduce dataset size B Improve accuracy and performance C Create visualizations D Optimize storage
 
+What is the purpose of ensemble methods like Bagging and Boosting? Choose only ONE best answer. A Reduce model complexity B Combine multiple models for better performance C Prevent data loss D Simplify neural network architecture
+
+What problem does the vanishing gradient issue cause? Choose only ONE best answer. A Slows or stops learning in deep layers B Reduces dataset size C Generates random weights D Creates overfitting
+
+What type of tasks are Recurrent Neural Networks (RNNs) most suitable for? Choose only ONE best answer. A Image classification B Text-to-image generation C Object detection D Time series data and sequence
+
+Which regularization technique involves penalizing the weights of a model? Choose only ONE best answer. A Dropout B L1 and L2 Regularization C Early Stopping D Bagging
 
 
