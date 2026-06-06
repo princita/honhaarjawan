@@ -62,7 +62,25 @@
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 
+Which database service in Azure supports both relational and non-relational data models? Choose only ONE best answer. A Azure SQL Database B Azure Synapse Analytics C Azure Cache for Redis D Azure Cosmos DB
 
+What should be done before deleting a database resource group in Azure? Choose only ONE best answer. A . Enable Redis caching B Export all data to a safe location C Archive the data in Blob Storage D Increase RTO and RPO values
+
+What is the key difference between OLTP and OLAP databases? Choose only ONE best answer. A OLTP focuses on transactions; OLAP focuses on analytics B OLTP uses in-memory caching; OLAP does not C OLTP is NoSQL; OLAP is relational D OLTP is used for backups; OLAP for live data
+
+Which feature of Azure Cache for Redis improves application performance? Choose only ONE best answer. A SQL querying capabilities B Long-term data archiving C Geo-redundancy D In-memory data storage
+
+Which service is suitable for creating and managing relational databases in Azure? Choose only ONE best answer.A Azure Blob Storage B Azure SQL Database C Azure Cosmos DB D Azure Synapse Analytics
+
+What is the purpose of Azure File Sync in database environments? Choose only ONE best answer. A Synchronizing file data between servers B Backing up database logs C Enhancing relational database performance D Optimizing NoSQL query performance
+
+What does RPO stand for in database availability terms? Choose only ONE best answer. A Recovery Process Objective B Recovery Point Objective C Relational Processing Output D Redis Processing Option
+
+What does RTO stand for in the context of database fundamentals? Choose only ONE best answer. A Real-Time Operations B Recovery Time Objective C Relational Table Operations D Redis Timeout Option
+
+What is the primary purpose of Azure Cosmos DB? Choose only ONE best answer. A Running SQL-based relational queri B Hosting in-memory data for fast access C Supporting globally distributed NoSQL databases D Providing caching for high-performance apps
+
+Which database service in Azure is designed for analytics and OLAP workloads? Choose only ONE best answer. A Azure Synapse Analytics B Azure SQL Database C Azure Cache for Redis D Azure Cosmos DB
 
 
 
