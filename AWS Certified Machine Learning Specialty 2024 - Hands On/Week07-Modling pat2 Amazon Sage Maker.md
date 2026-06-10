@@ -102,7 +102,29 @@
 ![image](https://github.com/user-attachments/assets/f9b2da60-6992-4213-8fb2-8bf6515068dc)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![image](
-![image](
-![image](
+![image](https://github.com/user-attachments/assets/b6394ac7-4138-47fb-9f14-712657547093)
+![image](https://github.com/user-attachments/assets/1a2cf81c-4799-4c89-8e19-a96fadedfc9c)
+![image](https://github.com/user-attachments/assets/5b2ea0e5-558e-46f8-997c-3fc98f676ae0)
+![image](https://github.com/user-attachments/assets/4322ff98-c0ec-4cb6-b817-ea7f9a0cafb2)
+![image](https://github.com/user-attachments/assets/b3fc0758-1a2a-4d0f-bb24-e97f3d5d3fd7)
+
+Which SageMaker algorithm is focused on clustering topics from text data? Choose only ONE best answer. A KNN B Latent Dirichlet Allocation (LDA) C Neural Topic Model D BlazingText
+
+What is the main purpose of Amazon SageMaker? Choose only ONE best answer. A Data visualization B Training and deploying machine learning models C Data storage and processing D Batch job management
+
+What is BlazingText in SageMaker primarily used for? Choose only ONE best answer. A Anomaly detection B Word embedding and text classification C Clustering D Regression
+
+What is the Object2Vec algorithm used for in SageMaker? Choose only ONE best answer. A Image classification B Clustering objects C Learning relationships between objects D Time series forecasting Confirm
+
+What is DeepAR designed for in SageMaker? Choose only ONE best answer. A Predicting sequential data trends B Object detection C Topic modeling D Text classification
+
+What type of task does the SageMaker Random Cut Forest algorithm address? Choose only ONE best answer. A Time series analysis B Anomaly detection C Text summarization D Clustering
+
+Which algorithm in SageMaker is widely used for gradient boosting? Choose only ONE best answer. A DeepAR B Random Cut Forest C XGBoost D BlazingText
+
+What type of model is SageMaker Linear Learner suitable for? Choose only ONE best answer. A Image classification B Regression and classification C Text processing D Clustering
+
+What type of tasks is the K Nearest Neighbors (KNN) algorithm used for in SageMaker? Choose only ONE best answer. A Regression and classification B Clustering C Topic modeling D Anomaly detection
+
+What is Seq2Seq in SageMaker primarily used for? Choose only ONE best answer. A Image classification B Topic modeling C Anomaly detection D Sequence-to-sequence tasks like translation
 
