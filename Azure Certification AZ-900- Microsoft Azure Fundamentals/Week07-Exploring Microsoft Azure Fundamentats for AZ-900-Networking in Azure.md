@@ -24,9 +24,26 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/155f97dd-ebf7-45be-8379-6fdb6eadf366) 
-![image]( 
-![image]( 
-![image]( 
-![image]( 
-![image]( 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/06a1d253-4a44-49d5-bec9-42ce10f5d6ab) 
+
+Why are subnets used within an Azure Virtual Network? Choose only ONE best answer. A To separate workloads logically B To create backups for resources C To host virtual machines D To enable internet access
+
+Which Azure networking service ensures protection against volumetric attacks? Choose only ONE best answer. A Azure Firewall B DDoS Protection C Network Security Group D Private Link
+
+What does an NSG rule control? Choose only ONE best answer. A Inbound and outbound network traffic B Backup schedules for virtual machines C Deployment of subnets D Internet bandwidth allocation
+
+What is the primary purpose of a Bastion Host in Azure? Choose only ONE best answer. A Securely manage storage accounts B Host application gateways C Provide remote access to VMs without exposing them to the internet D Monitor Azure network activity
+
+What does NSG stand for in Azure networking? Choose only ONE best answer. A Network Security Group B Network Service Gateway C Network Storage Grid D Network Sync Guard
+
+What does Azure DDoS Protection primarily defend against? Choose only ONE best answer. A Unauthorized logins B Data loss incidents C Distributed denial-of-service attacks D Application vulnerabilities
+
+What is the role of Azure Firewall in networking? Choose only ONE best answer. A Encrypts network traffic B Provides a stateful firewall to manage traffic C Hosts virtual private endpoints D Enables internet access for VMs
+
+What is the purpose of an Azure Virtual Network? Choose only ONE best answer. A Manage virtual machines B Enable secure communication between resources C Deploy applications globally D . Store data in the cloud
+
+Which feature allows private connectivity to Azure services? Choose only ONE best answer. A Subnets B Private Endpoint C Bastion Host D NSG Rules
+
+How does Azure Private Link enhance security? Choose only ONE best answer. A Encrypts network traffic B Disables public endpoint access C Enables private connectivity to services D Monitors NSG activity logs
