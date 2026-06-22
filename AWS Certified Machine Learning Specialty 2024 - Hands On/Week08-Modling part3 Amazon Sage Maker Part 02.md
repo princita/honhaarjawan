@@ -76,9 +76,53 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/fecce4f5-6bad-4675-97a9-c7ac1b454376)
-![image](
-![image](
-![image](
-![image](
-![image](
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/bf471cc3-1e00-46bf-8d72-4735b7a48546)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/d142d6f0-b7cd-489b-b24a-4f826a16906d)
+![image](https://github.com/user-attachments/assets/5a3add14-a51f-4a7e-83fa-fa767f1a759e)
+![image](https://github.com/user-attachments/assets/22193291-732e-4fc7-b822-2e9df356585f)
+![image](https://github.com/user-attachments/assets/154054c9-f5f1-4cb3-86ab-da28ee787689)
+![image](https://github.com/user-attachments/assets/fd4b3eee-0fc0-4dda-aa19-c2262a73c484)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/8e862b47-b649-4da0-baef-662783a1d55a)
+![image](https://github.com/user-attachments/assets/10d6802a-4570-4fe0-b157-4d5dc4daac57)
+![image](https://github.com/user-attachments/assets/0f41c47d-a288-4332-8ada-60b36de5431e)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/a19cef41-424f-4118-b4a1-937573a6b540)
+![image](https://github.com/user-attachments/assets/dd5c0990-e63f-45d4-8f3f-6433572841a0)
+![image](https://github.com/user-attachments/assets/da6d85a5-6cff-4f40-b4ac-6a1ffac67a19)
+![image](https://github.com/user-attachments/assets/00fc634c-ff68-4c04-a635-6787220a939e)
+![image](https://github.com/user-attachments/assets/d2744cfb-d33d-45b8-89d7-ee3a7af52197)
+![image](https://github.com/user-attachments/assets/15c1ded2-b7b0-427b-8c92-02b0131119df)
+![image](https://github.com/user-attachments/assets/e5a08dd5-c2c3-4946-9668-7ad656f013ea)
+![image](https://github.com/user-attachments/assets/dd3c650b-f78d-4a7a-a503-444613c7f717)
+![image](https://github.com/user-attachments/assets/99825197-287f-4334-930f-9c70b1a81dab)
+
+What is the purpose of Automatic Model Tuning in SageMaker? Choose only ONE best answer. A Optimize hyperparameters for better performance B Simplify data preparation C Automate deployment steps D Reduce dataset size
+
+What is the purpose of Factorization Machines in SageMaker? Choose only ONE best answer. A Feature selection B Anomaly detection C Recommendation systems and predictions D Clustering text data
+
+What does SageMaker Debugger help with? Choose only ONE best answer. A Monitoring training jobs for errors and bottlenecks B Automating feature engineering C Setting up K-Means clustering D Training reinforcement learning agents
+
+What does SageMaker Data Wrangler simplify? Choose only ONE best answer. A Feature engineering and data preparation B Deploying models C Monitoring bias in datasets D Hyperparameter tuning
+
+What does Principal Component Analysis (PCA) aim to achieve? Choose only ONE best answer. A Reduce dimensionality of data B Detect outliers C Train reinforcement learning models D Optimize hyperparameters
+
+What is the purpose of SageMaker Model Monitor? Choose only ONE best answer. A Debugging model training B Tracking feature lineage C Monitoring deployed models for drift D Automating data preparation
+
+What is SageMaker Autopilot designed to automate? Choose only ONE best answer. A Model deployment B Hyperparameter tuning C End-to-end machine learning workflows D Bias detection
+
+What type of learning does SageMaker Reinforcement Learning focus on? Choose only ONE best answer. A Supervised learning B Semi-supervised learning C Goal-oriented learning through rewards D Text processing
+
+What is the function of SageMaker Feature Store? Choose only ONE best answer. A Debugging training jobs B Creating visualizations for datasets C Monitoring model performance D Storing and managing features for reuse
+
+What is the main purpose of K-Means Clustering in SageMaker? Choose only ONE best answer. A Supervised learning tasks B Grouping data into clusters C Identifying anomalies D Predicting time series trends
+
+
+
 
