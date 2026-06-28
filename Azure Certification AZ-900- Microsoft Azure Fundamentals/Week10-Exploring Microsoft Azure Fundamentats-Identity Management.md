@@ -27,9 +27,24 @@
 ![image](https://github.com/user-attachments/assets/2849abb3-1194-45df-9abe-3ca70ad34a02) 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+What is a key feature of passwordless authentication? Choose only ONE best answer. A Enforcing long passwords B Biometric access C Enabling conditional policies D Managing virtual machines
 
-![image](
-![image]( 
-![image](
-![image]( 
-![image](
+What does Entra Conditional Access often pair with for security? Choose only ONE best answer. A Static policies B Multi-factor authentication C Virtual networks D Password resets
+
+What is a common use case for Microsoft Entra Domain Services? Choose only ONE best answer. A Managing identity for legacy apps B Creating backup strategies C Hosting virtual machines D Running container instances
+
+What is the main function of Role-Based Access Control (RBAC)? Choose only ONE best answer. A Enabling conditional access B Managing domain controllers C Assigning permissions to users D . Providing passwordless login
+
+What is the purpose of Entra Domain Services? Choose only ONE best answer. A Host virtual machines B Enable database backups C Monitor resource usage D Provide managed domain service
+
+What does Microsoft Entra ID (formerly Azure AD) provide? Choose only ONE best answer. A Manage virtual machines B Centralized identity services C Data storage and backups D Networking services
+
+What is Microsoft Entra Connect used for? Choose only ONE best answer. A Synchronizing on-premises identities with Azure B Setting up virtual networks C Managing domain controllers D Creating Azure subscriptions
+
+What does Microsoft Entra Conditional Access enforce? Choose only ONE best answer. A Policies based on user context B Network configurations C Static user permissions D Virtual machine deployments
+
+What does Microsoft Entra ID primarily manage? Choose only ONE best answer. A Application scaling B User identities C Network traffic D Data backups
+
+What does RBAC control in Azure? Choose only ONE best answer. A Network latency B Subscription cost C User permissions D Backup schedules
+
+
