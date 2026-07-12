@@ -27,32 +27,31 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/60b52db9-f236-4115-9c76-e191d6ea5172)
 ![image](https://github.com/user-attachments/assets/ef9a0a05-e4de-480f-8477-721c4fde8f8e)
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/user-attachments/assets/bbadb654-13f1-48f1-be8d-162b58199bd1)
+![image](https://github.com/user-attachments/assets/6c0f5f16-b775-485c-a547-8c6e8d651ff0)
+![image](https://github.com/user-attachments/assets/e1d25bca-43cd-4fe0-8e2c-8e24694e1257)
+![image](https://github.com/user-attachments/assets/9edd74a7-55e8-4d5d-a416-502e026d4e85)
+![image](https://github.com/user-attachments/assets/21762cce-d575-435a-a61e-8588a3a9430e)
 
 
+What is covered in Part 1 of the TensorFlow lab? Choose only ONE best answer. A Deploying serverless pipelines B Encrypting data during training C Scaling resources dynamically D Tuning and setting up the model
+
+What is the focus of MLOps with SageMaker Kubernetes? Choose only ONE best answer. A Deploying serverless inference models B Enhancing encryption in pipelines C Streamlining machine learning workflows D Managing VPC-based resources
+
+What is the primary focus of Part 2 of the TensorFlow lab? Choose only ONE best answer. A Deploying the model for predictions B Securing data during inference C Monitoring resource utilization D Managing automatic scaling policies
+
+What is the role of SageMaker Serverless Inference? Choose only ONE best answer. A Running models without server management B Encrypting data stored in S3 C Optimizing pipelines for Kubernetes D Managing VPC security policies
+
+What is managed with SageMaker resource management? Choose only ONE best answer. A Edge device deployments B Model encryption and security C Spot training and instance types D Serverless model inference
+
+What is the purpose of encryption in SageMaker? Choose only ONE best answer. A Scaling model deployment instances B Securing data in transit and at rest C Simplifying inference pipelines D Optimizing edge device models
 
 
+What does SageMaker automatic scaling optimize? Choose only ONE best answer. A Monitoring security and logging B Deploying models to Kubernetes C Enhancing data encryption methods D Adjusting resources dynamically
 
+What do SageMaker inference pipelines allow? Choose only ONE best answer. A Encrypting predictions during transit B Chaining multiple models for predictions C Monitoring inference performance D Managing logging and monitoring
 
+What is the main task in Part 3 of the TensorFlow lab? Choose only ONE best answer. A Encrypting predictions during transit B Evaluating the model’s performance C Automating pipeline deployments D Optimizing the edge deployments
 
-
-
-
-
-
-
-
+What does SageMaker Neo enable? Choose only ONE best answer. A Deploying models to edge devices B Encrypting data at rest and transit C Scaling resources automatically D Logging and monitoring instances
 
