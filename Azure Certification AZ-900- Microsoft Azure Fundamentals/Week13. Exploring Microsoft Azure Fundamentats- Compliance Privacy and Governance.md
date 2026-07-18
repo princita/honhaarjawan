@@ -22,6 +22,24 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/93e42f97-b701-4e63-bf2f-6ec3e1febd43)
 ![image](https://github.com/user-attachments/assets/643467a0-250f-446c-a59e-2af61c5f276c)
-![image](
-![image](
-![image](
+
+What information is found in Azure Privacy Docs? Choose only ONE best answer. A Billing details B Deployment methods C Backup strategies D Data protection policies
+
+What does Microsoft Purview provide?Choose only ONE best answer.A Storage cost analysis B App performance tracking C  Data governance solutions D Network encryption tools
+
+What does Azure Blueprints include in its deployments? Choose only ONE best answer. A Policies and role assignments B . Encryption keys only C Resource logs and metrics D Storage replication strategies
+
+How do Resource Locks improve governance? Choose only ONE best answer. A Enforce naming rules B Track user activity logs C Optimize billing reports D Prevent resource changes
+
+What is the role of Azure Compliance Hub? Choose only ONE best answer. A Track compliance with standards B Monitor network traffic C Deploy virtual machines D Scale cloud applications
+
+What is Azure Policy used for? Choose only ONE best answer. A Enforce compliance rules B Monitor VM health C Encrypt user data D Scale applications
+
+What does compliance in Azure primarily ensure? Choose only ONE best answer. A . Predictable costs B Regulatory alignment C High performance D Automated scaling
+
+What are Azure Sovereign Regions used for? Choose only ONE best answer. A Scaling app performance B Data residency compliance C Encrypting file storage D Managing backups efficiently
+
+What is the purpose of Azure Blueprints? Choose only ONE best answer. A Scale virtual machines B Automate standard setups C Encrypt application data D Manage user identities
+
+How do Resource Locks prevent issues? Choose only ONE best answer. A Restrict resource scaling B Improve app performance C Block accidental deletion D Encrypt sensitive files
+
