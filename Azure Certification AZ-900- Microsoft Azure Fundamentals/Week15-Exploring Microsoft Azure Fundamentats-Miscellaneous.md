@@ -1,5 +1,6 @@
 
 ![image](https://github.com/user-attachments/assets/c379fc9d-15b0-4274-ad8a-02a6ae788b5b)
+
 What does Azure Tags simplify? Choose only ONE best answer. A Scaling apps B Resource grouping C File backups D Network setup
 
 What does Azure Data Box enable? Choose only ONE best answer. A Move large data B Encrypt storage C Backup VMs D Manage regions
