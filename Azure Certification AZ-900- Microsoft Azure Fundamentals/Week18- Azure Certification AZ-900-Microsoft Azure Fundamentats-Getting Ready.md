@@ -7,6 +7,36 @@ C Store app data
 D Integrate workflows
 
 
+What is the focus of the AZ-900 certification?
+Choose only ONE best answer.
+A Core Azure skills
+B Advanced app scaling
+C Secure app backups
+D Manage virtual logs
+
+What is essential for achieving goals?
+Choose only ONE best answer.
+A Cloud scaling
+B Clear priorities
+C Network logs
+D App backups
+
+
+What does AZ-900 emphasize?
+Choose only ONE best answer.
+A Cloud concepts
+B Data storage
+C Network setups
+D Backup scaling
+
+
+What can Logic Apps automate?
+Choose only ONE best answer.
+A Workflow tasks
+B File backups
+C App scaling
+D Storage logs
+
 How does a growth mindset affect challenges?
 Choose only ONE best answer.
 A Manages file backups
